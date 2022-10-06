@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimalckl)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ibrahim.alckl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ibrahim.alckl/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahimalacakal/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/pixel_ibo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Pixel_ibo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCFgcpH0zbgIyYS_J2h-QQkg) 
 
@@ -11,6 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ibrahimalckl&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimalckl&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimalckl&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimalckl)]
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahimalckl&icon=2&color=0)](https://visitcount.itsvg.in)
