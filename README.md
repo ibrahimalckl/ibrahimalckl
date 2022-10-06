@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <img  align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="18%"/>
-🔭 I'm current working on Door Automation with NodeMCU ESP8266 card.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm current working on Door Automation with NodeMCU ESP8266 card.<br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
