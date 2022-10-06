@@ -1,6 +1,7 @@
-<img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45%"/>
+<img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30%"/>
 
 # 💫 About Me:
+<img  align="center-right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30%"/>
 🔭 I'm current working on Door Automation with NodeMCU ESP8266 card.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
