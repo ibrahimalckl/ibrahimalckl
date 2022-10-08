@@ -1,5 +1,5 @@
 
-# 💫 About Me: Hi 👋, I'm İbrahim ✨
+# 💫 Hi 👋, I'm İbrahim ✨
 <img  align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="21%"/>
 🔭 I'm currently working on Door Automation with NodeMCU ESP8266 card.<br>🌱 I'm developing web projects and introduction to mobile and IoT technologies.<br>💬 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
