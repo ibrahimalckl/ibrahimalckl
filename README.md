@@ -5,8 +5,8 @@
 
 <p></p>
 
-🌐 [ibrahimalacakal.com.tr](http://www.ibrahimalacakal.com.tr)<br>
-📝 [blog.ibrahimalacakal.com.tr](http://www.blog.ibrahimalacakal.com.tr/)<br>
+🌐 [ibrahimalacakal.net.tr](http://www.ibrahimalacakal.net.tr)<br>
+📝 [blog.ibrahimalacakal.net.tr](http://www.blog.ibrahimalacakal.net.tr/)<br>
 ✉ [ibrahim.alacakal@outlook.com](mailto:ibrahimalacakal@outlook.com)
 
 ## 🌐 Socials:
